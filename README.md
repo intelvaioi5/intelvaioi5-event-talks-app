@@ -1,0 +1,1 @@
+# intelvaioi5-event-talks-app
